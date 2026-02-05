@@ -1,4 +1,5 @@
 "Id","CommandLine","ExecutionStatus","StartExecutionTime","EndExecutionTime"
+"0"git clone http://github.com/majka684/HW_10.git HW_10
 "1","cd HW_10","Completed","5. 2. 2026 15:54:16","5. 2. 2026 15:54:17"
 "2","git push","Completed","5. 2. 2026 15:54:31","5. 2. 2026 15:55:04"
 "3","git branch","Completed","5. 2. 2026 16:00:21","5. 2. 2026 16:00:23"
